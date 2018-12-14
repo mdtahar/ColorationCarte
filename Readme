@@ -1,0 +1,16 @@
+TAHI MOHANDTAHAR
+
+
+Compilation : 
+make | 
+ocamlc -c sat_solver.mli
+ocamlc -c sat_solver.ml
+ocamlc -c example.ml
+ocamlc -c jeu.ml
+ocamlc -c solution.ml
+ocamlc -c affiche.ml
+ocamlc -c main.ml
+ocamlc -o ocamlc -o projet graphics.cma sat_solver.cmo example.cmo jeu.cmo solution.cmo affiche.cmo main.cmo
+
+
+--------------------------------------------------------------
